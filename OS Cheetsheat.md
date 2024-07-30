@@ -136,6 +136,3 @@
 6. **Verify Full System Functionality**: Ensure the problem is resolved and no new issues are introduced.
 7. **Document Findings, Actions, and Outcomes**: Keep records for future reference.
 
-```
-
-Feel free to copy and expand on this format for other sections! Let me know which section you’d like to tackle next.
